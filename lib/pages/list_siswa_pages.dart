@@ -168,7 +168,7 @@ class _ListSiswaState extends State<ListSiswaPages> {
               children: [
                 CustomTextfield(
                   controller: firstNameController,
-                  nama: "Frist Name",
+                  nama: "First Name",
                   typekeyboard: TextInputType.name,
                 ),
                 const SizedBox(height: 10),
